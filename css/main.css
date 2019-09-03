@@ -879,7 +879,7 @@ header#banner h1{
 
 .fqcontainer {
   width: 100%;
-  margin: 5rem;
+  margin: 5rem auto;
 
   text-align: justify;
 }
